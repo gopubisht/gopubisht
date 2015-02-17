@@ -55,8 +55,8 @@ Title6 = "Jobs";
 label7 = "CONTACT";
 Title7 = "Contact Us";
 
-label8 = "HEALTH";
-Title8 = "Health";
+label8 = "SPORTS";
+Title8 = "Sports";
 
 label9 = "NATIONAL";
 Title9 = "National";
@@ -64,8 +64,8 @@ Title9 = "National";
 label10 = "WORLD";
 Title10 = "World";
 
-label11 = "SPORTS";
-Title11 = "Sports";
+label11 = "HEALTH";
+Title11 = "Health";
 
 function removeHtmlTag(strx,chop){
 	var s = strx.split("<");
