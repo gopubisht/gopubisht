@@ -55,17 +55,20 @@ Title6 = "Jobs";
 label7 = "CONTACT";
 Title7 = "Contact Us";
 
-label8 = "SPORTS";
-Title8 = "Sports";
+label8 = "UTTARAKHAND TEMPLES";
+Title8 = "Famous Temples";
 
-label9 = "NATIONAL";
-Title9 = "National";
+label9 = "PAHARI WORDS";
+Title9 = "Uttarakhand Pahari Dictionary";
 
-label10 = "WORLD";
-Title10 = "World";
+label10 = "HISTORY OF UTTARAKHAND";
+Title10 = "Uttarakhand Ek NAZAR";
 
-label11 = "HEALTH";
-Title11 = "Health";
+label11 = "KUMAON";
+Title11 = "Kumaon Mandal";
+
+label12 = "GARHWAL";
+Title12 = "Garhwal Mandal";
 
 function removeHtmlTag(strx,chop){
 	var s = strx.split("<");
