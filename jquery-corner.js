@@ -1,10 +1,10 @@
 /*-----------------------------------------------
 Theme Name: Daily Times
-Designer : Hardeep Singh
+Designer : Gopu Bisht
 Created: Feb, 2014
-Theme URI: http://hackerschronicle.com
+Theme URI: http://devbhoomiuttarakhand.com
 Author: Hardeep Singh
-Author URI: http://hackerschronicle.com
+Author URI: http://gopubisht.blogspot.com
 ----------------------------------------------- */
 ;(function($){var style=document.createElement('div').style,moz=style['MozBorderRadius']!==undefined,webkit=style['WebkitBorderRadius']!==undefined,radius=style['borderRadius']!==undefined||style['BorderRadius']!==undefined,mode=document.documentMode||0,noBottomFold=$.browser.msie&&(($.browser.version<8&&!mode)||mode<8),expr=$.browser.msie&&(function(){var div=document.createElement('div');try{div.style.setExpression('width','0+0');div.style.removeExpression('width');}
 catch(e){return false;}
