@@ -1,6 +1,6 @@
 /*-----------------------------------------------
 Theme Name: Daily Times
-Designer : Bisht
+Designer : Gopu Bisht
 Created: Mar, 2014
 Theme URI:  
 Author: Bisht
